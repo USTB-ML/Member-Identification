@@ -1,2 +1,2 @@
 # Member-Identification
-This repository is used to identify
+This repository is used to register members
